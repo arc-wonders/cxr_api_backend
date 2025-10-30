@@ -1,0 +1,8 @@
+@"
+# keep minimal for this repo
+__pycache__/
+*.py[cod]
+*.log
+.ipynb_checkpoints/
+.DS_Store
+"@ | Out-File -Encoding UTF8 ".gitignore"
